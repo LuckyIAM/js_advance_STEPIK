@@ -132,3 +132,5 @@ let arr = [3, 2, 4, 1, 5, 9, 1, 6, 5, 3, 3];
 let sortedArr = mergeSort(arr);
 
 console.log(sortedArr);
+
+// I can add on branch in git. now I have two baranch in git master and stepik
